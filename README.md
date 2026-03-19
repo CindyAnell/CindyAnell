@@ -2,6 +2,52 @@
 <h3 align="center">A Full-Stack Web Developer</h3>
 
 - 📫 How to reach me **cindyanell.02@gmail.com**
+  🎓 Graphic Information Technology student at ASU  
+💻 Passionate about tech, design, and creative storytelling  
+🎨 Interested in UI/UX, video editing, and digital media  
+
+---
+
+## 💡 About Me
+- I love blending **technology + design** to create meaningful experiences  
+- Currently learning: JavaScript, SQL, and multimedia production  
+- Exploring creative outlets like **animation, photography, and video editing**  
+- Outside of tech, I’m into makeup, music, and dancing  
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** JavaScript, SQL, HTML, CSS  
+- **Tools:** Canva, Adobe Creative Suite, Figma  
+- **Other:** Video editing, storyboarding, digital design  
+
+---
+
+## 📂 Projects
+✨ Here are a few things I’ve worked on:
+- 🎥 Video editing projects (class + personal)
+- 🐸 JavaScript mini projects (like interactive web elements)
+- 🎨 Design work (branding, layouts, and visuals)
+
+*(More coming soon...)*
+
+---
+
+## 🌱 Currently Working On
+- Improving my JavaScript skills  
+- Building more interactive and creative web projects  
+- Developing a stronger design + coding workflow  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *(add your link)*
+- 📧 Email: *(optional)*
+
+---
+
+## ⚡ Fun Fact
+I love turning ideas into visuals—whether it's through design, code, or storytelling ✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
