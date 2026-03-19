@@ -1,24 +1,20 @@
 <h1 align="center">Hi 👋, I'm Cindy Anell!</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
-- 📫 How to reach me **cindyanell.02@gmail.com**
-  🎓 Graphic Information Technology student at ASU  
-💻 Passionate about tech, design, and creative storytelling  
-🎨 Interested in UI/UX, video editing, and digital media  
+
+🎓 Graphic Information Technology student at ASU  
+💻 Passionate about tech, design, and creative storytelling / problem solving  
 
 ---
 
 ## 💡 About Me
 - I love blending **technology + design** to create meaningful experiences  
-- Currently learning: JavaScript, SQL, and multimedia production  
-- Exploring creative outlets like **animation, photography, and video editing**  
 - Outside of tech, I’m into makeup, music, and dancing  
-
 ---
 
 ## 🛠️ Skills & Tools
 - **Languages:** JavaScript, SQL, HTML, CSS  
-- **Tools:** Canva, Adobe Creative Suite, Figma  
+- **Tools:** Adobe Creative Suite, Figma 
 - **Other:** Video editing, storyboarding, digital design  
 
 ---
@@ -41,13 +37,12 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(optional)*
+- 💼 LinkedIn: https://www.linkedin.com/in/cindy-garcia-637a3329a/
+- 📧 Email: cindyanell.02@gmail.com
 
 ---
 
-## ⚡ Fun Fact
-I love turning ideas into visuals—whether it's through design, code, or storytelling ✨
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
