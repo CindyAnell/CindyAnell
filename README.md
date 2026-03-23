@@ -10,7 +10,7 @@
 
 ##
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%B8%20About%20Me-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
+  <img src="https://img.shields.io/badge/About%20Me-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
 </p>
 
 
