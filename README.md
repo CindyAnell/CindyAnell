@@ -34,10 +34,10 @@
   <img src="https://img.shields.io/badge/Projects-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
 </p>
 
-✨ Here are a few things I’ve worked on:
-- 🎥 Video editing projects (class + personal)
-- 🐸 JavaScript mini projects (like interactive web elements)
-- 🎨 Design work (branding, layouts, and visuals)
+Here are a few things I’ve worked on:
+-  Video editing projects (class + personal)
+-  JavaScript mini projects (like interactive web elements)
+-  Design work (branding, layouts, and visuals)
 
 *(More coming soon...)*
 
