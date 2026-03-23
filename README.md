@@ -2,6 +2,22 @@
 <h3 align="center">A Full-Stack Web Developer</h3>
 
 
+<div align="center">
+  <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="60,10 73,45 110,45 80,68 92,105 60,82 28,105 40,68 10,45 47,45"
+             fill="#FFD700">
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite" />
+      <animateTransform attributeName="transform"
+                        type="rotate"
+                        from="0 60 60"
+                        to="360 60 60"
+                        dur="6s"
+                        repeatCount="indefinite" />
+    </polygon>
+  </svg>
+</div>
+
+
 🎓 Graphic Information Technology student at ASU  
 💻 Passionate about tech, design, and creative storytelling / problem solving  
 
