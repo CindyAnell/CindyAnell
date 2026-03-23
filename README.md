@@ -1,14 +1,20 @@
-<h1 align="center">Hi 👋, I'm Cindy Anell!</h1>
-<h3 align="center">A Full-Stack Web Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Cindy+Anell!;Full-Stack+Developer+💻" />
+</p>
 
 
 🎓 Graphic Information Technology student at ASU  
 💻 Passionate about tech, design, and creative storytelling / problem solving  
 
----
 
-## 💡 About Me
+##
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B8%20About%20Me-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
+</p>
+
+
+
 - I love blending **technology + design** to create meaningful experiences  
 - Outside of tech, I’m into makeup, music, and dancing  
 ---
