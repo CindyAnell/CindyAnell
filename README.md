@@ -14,19 +14,26 @@
 </p>
 
 
-
 - I love blending **technology + design** to create meaningful experiences  
 - Outside of tech, I’m into makeup, music, and dancing  
----
 
-## 🛠️ Skills & Tools
+
+##
+<p align="center">
+  <img src="https://img.shields.io/badge/Skills%20%26%20Tools-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
+</p>
+
 - **Languages:** JavaScript, SQL, HTML, CSS  
 - **Tools:** Adobe Creative Suite, Figma 
 - **Other:** Video editing, storyboarding, digital design  
 
----
 
-## 📂 Projects
+
+## 
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
+</p>
+
 ✨ Here are a few things I’ve worked on:
 - 🎥 Video editing projects (class + personal)
 - 🐸 JavaScript mini projects (like interactive web elements)
@@ -34,23 +41,70 @@
 
 *(More coming soon...)*
 
----
 
-## 🌱 Currently Working On
+## 
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Working%20On-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
+</p>
+
 - Improving my JavaScript skills  
 - Building more interactive and creative web projects  
 - Developing a stronger design + coding workflow  
 
----
+##
 
-## 📫 Connect With Me
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Connect%20With%20Me-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
+</p>
+
 - 💼 LinkedIn: https://www.linkedin.com/in/cindy-garcia-637a3329a/
 - 📧 Email: cindyanell.02@gmail.com
 
----
 
+##
 
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="80">
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.w3.org/html/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.java.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.python.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
