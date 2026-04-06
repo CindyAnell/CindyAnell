@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Cindy+Anell!;Full-Stack+Developer+💻" />
 </p>
 
@@ -9,7 +9,7 @@
 
 
 ##
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/About%20Me-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
 </p>
 
@@ -19,7 +19,7 @@
 
 
 ##
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Skills%20%26%20Tools-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
 </p>
 
@@ -30,7 +30,7 @@
 
 
 ## 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Projects-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
 </p>
 
@@ -43,7 +43,7 @@ Here are a few things I’ve worked on:
 
 
 ## 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Currently%20Working%20On-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
 </p>
 
@@ -55,7 +55,7 @@ Here are a few things I’ve worked on:
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Connect%20With%20Me-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
 </p>
 
