@@ -1,7 +1,5 @@
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Cindy+Anell!;Full-Stack+Developer+💻" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&width=500&lines=Hi%2C+I'm+Cindy+Anell;Full-Stack+Developer" />
 
 
 🎓 Graphic Information Technology student at ASU  
