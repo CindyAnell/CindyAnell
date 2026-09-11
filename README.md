@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/Skills%20%26%20Tools-ffb6c1?style=for-the-badge&labelColor=fff0f5" />
 </p>
 
-- **Languages:** JavaScript, SQL, HTML, CSS  
-- **Tools:** Adobe Creative Suite, Figma 
+- **Languages:** JavaScript, SQL, HTML, CSS, Java, Python
+- **Tools:** Adobe Creative Suite, Figma, VS code
 - **Other:** Video editing, storyboarding, digital design  
 
 
@@ -34,7 +34,7 @@
 
 Here are a few things I’ve worked on:
 -  Video editing projects (class + personal)
--  JavaScript mini projects (like interactive web elements)
+-  Responsive / static websites.
 -  Design work (branding, layouts, and visuals)
 
 *(More coming soon...)*
